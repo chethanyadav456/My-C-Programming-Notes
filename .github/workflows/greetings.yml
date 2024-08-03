@@ -12,5 +12,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "🎉 **Welcome and thank you for your first issue!** 🎉\nWe appreciate your contribution and effort to help improve this project. Your feedback is invaluable, and our team will review your issue as soon as possible.\nIf you have any questions, feel free to ask. We're here to help!"
-        pr-message: " 🎉 **Thank you for your first pull request!** 🎉\nWe appreciate your effort in making this project better. Our team will review your pull request shortly.\nIf you need any assistance or have any questions, please don't hesitate to reach out. We're here to support you!\nOnce again, thank you for your contribution!"
+        issue-message: "🎉 **Welcome and thank you for your first issue!** 🎉\n\nWe appreciate your contribution and effort to help improve this project. Your feedback is invaluable, and our team will review your issue as soon as possible.\n\nIf you have any questions, feel free to ask. We're here to help!"
+        pr-message: " 🎉 **Thank you for your first pull request!** 🎉\n\nWe appreciate your effort in making this project better. Our team will review your pull request shortly.\nIf you need any assistance or have any questions, please don't hesitate to reach out. We're here to support you!\n\nOnce again, thank you for your contribution!"
