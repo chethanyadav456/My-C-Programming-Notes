@@ -3,7 +3,7 @@
 /**
  * syntax.c - A simple program in C that prints "Hello, world!" to the console.
  * The main function of the program.
- *  Chethan Yadav @chethanyadav456 2024
+ * Chethan Yadav @chethanyadav456 2024
  * 
  * @return an integer indicating the exit status of the program.
  */
