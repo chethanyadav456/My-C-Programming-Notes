@@ -24,5 +24,5 @@ $ git clone https://github.com/chethanyadav456/My-C-Programming-Notes.git
 ```
 
 ```sh
-cd My-C-Programming-Notes
+$ cd My-C-Programming-Notes
 ```
